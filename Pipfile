@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 google-images-download = "*"
+cv2 = "*"
 
 [requires]
 python_version = "3.6"
